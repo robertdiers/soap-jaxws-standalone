@@ -1,0 +1,1 @@
+curl --header "Content-Type: text/xml;charset=UTF-8" --data @request.xml http://localhost:8090/ws/helloworld
