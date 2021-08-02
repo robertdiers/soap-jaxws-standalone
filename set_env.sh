@@ -1,0 +1,1 @@
+export JAVA_HOME=/home/robert/Documents/java/jdk-11.0.11+9/

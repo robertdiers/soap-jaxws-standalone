@@ -1,4 +1,4 @@
-. ../set_env.sh
+. set_env.sh
 
 # build
 mvn clean install assembly:assembly
